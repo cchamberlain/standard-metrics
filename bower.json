@@ -1,0 +1,27 @@
+{
+  "name": "standard-metrics",
+  "version": "0.0.0",
+  "authors": [
+    "Cole Chamberlain <cole.chamberlain@gmail.com>"
+  ],
+  "description": "Metrics related directives and services for standard libraries.",
+  "main": ["./standard-metrics.js", "./templates/standard-chart-panel.html"],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "standard",
+    "metrics",
+    "directives",
+    "services"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
