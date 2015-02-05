@@ -5,7 +5,7 @@
     "Cole Chamberlain <cole.chamberlain@gmail.com>"
   ],
   "description": "Metrics related directives and services for standard libraries.",
-  "main": ["./standard-metrics.js", "./templates/standard-chart-panel.html"],
+  "main": ["./standard-metrics.js", "./standard-metrics.js.map", "./templates/standard-chart-panel.html"],
   "moduleType": [
     "es6"
   ],
